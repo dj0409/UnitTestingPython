@@ -36,3 +36,23 @@ Set up GitHub Actions to automatically run your tests:
 - Create a GitHub Actions workflow file (e.g., .github/workflows/pytest.yml) that installs your dependencies and runs your tests on every push.
 - Ensure the workflow runs on Ubuntu and uses a recent version of Python (e.g., Python 3.9 or 3.10).
 
+# Submission Instructions
+### Create a GitHub Repository:
+Name your repository (e.g., bat-test-assignment) and commit all your files:
+- bat_functions.py
+- test_bat_functions.py
+- .github/workflows/pytest.yml
+Any additional documentation (e.g., a README.md describing your approach).
+
+### Commit Guidelines:
+Write clear, descriptive commit messages (e.g., "Add basic tests for calculate_bat_power", "Implement fixture for bat vehicles", "Set up GitHub Actions workflow").
+Ensure your repository is organized and your code is commented where necessary.
+
+### Push Your Repository:
+Once you’re done, push your changes to GitHub. Make sure the repository is public (or provide access if private) so that it can be reviewed.
+
+### Final Submission:
+Submit the GitHub repository link (e.g., via your course submission portal or email as instructed).
+
+### Thank You So Much
+I hope you don't find it too difficult nor too easy. Appreciate you guys. 
