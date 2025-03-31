@@ -52,7 +52,7 @@ Ensure your repository is organized and your code is commented where necessary.
 Once you’re done, push your changes to GitHub. Make sure the repository is public (or provide access if private) so that it can be reviewed.
 
 ### Final Submission:
-Submit the GitHub repository link (e.g., via your course submission portal or email as instructed).
+Tag me as a collaborator @Konstantinos-10 to grade it. 
 
 ### Thank You So Much
 I hope you don't find it too difficult nor too easy. Appreciate you guys. 
